@@ -1,0 +1,16 @@
+.b1 {
+    background-color: black;
+    color: white;
+    border-color: grey;
+}
+
+.b2{
+    background-color: yellow;
+    color: black;
+    border-color: white;
+}
+
+.b1, .b2{
+    font-size: 28px;
+    font-style: 'Helvetica';
+}

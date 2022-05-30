@@ -1,0 +1,19 @@
+.odd {
+    background-color: pink;
+}
+
+.big {
+    font-size: 24px;
+}
+ 
+.four {
+    background-color: rgb(63, 226, 63);
+    color: black;
+    font-weight: bold;
+}
+
+.two {
+    font-size: 20px;
+    color: #0000ff;
+
+}
